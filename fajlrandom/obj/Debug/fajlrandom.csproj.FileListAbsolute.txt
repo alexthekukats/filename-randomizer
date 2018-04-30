@@ -1,0 +1,12 @@
+c:\users\alex\documents\visual studio 2013\Projects\fajlrandom\fajlrandom\bin\Debug\fajlrandom.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\fajlrandom\fajlrandom\bin\Debug\fajlrandom.exe
+c:\users\alex\documents\visual studio 2013\Projects\fajlrandom\fajlrandom\bin\Debug\fajlrandom.pdb
+c:\users\alex\documents\visual studio 2013\Projects\fajlrandom\fajlrandom\obj\Debug\fajlrandom.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\fajlrandom\fajlrandom\obj\Debug\fajlrandom.exe
+c:\users\alex\documents\visual studio 2013\Projects\fajlrandom\fajlrandom\obj\Debug\fajlrandom.pdb
+D:\Mentés\Dokumentumok 2014.07.08\Visual Studio 2013\Projects\fajlrandom\fajlrandom\bin\Debug\fajlrandom.exe.config
+D:\Mentés\Dokumentumok 2014.07.08\Visual Studio 2013\Projects\fajlrandom\fajlrandom\obj\Debug\fajlrandom.exe
+D:\Mentés\Dokumentumok 2014.07.08\Visual Studio 2013\Projects\fajlrandom\fajlrandom\obj\Debug\fajlrandom.pdb
+D:\Mentés\Dokumentumok 2014.07.08\Visual Studio 2013\Projects\fajlrandom\fajlrandom\bin\Debug\fajlrandom.exe
+D:\Mentés\Dokumentumok 2014.07.08\Visual Studio 2013\Projects\fajlrandom\fajlrandom\bin\Debug\fajlrandom.pdb
+D:\Mentés\Dokumentumok 2014.07.08\Visual Studio 2013\Projects\fajlrandom\fajlrandom\obj\Debug\fajlrandom.csprojResolveAssemblyReference.cache
